@@ -82,6 +82,7 @@ config.usage.boot_action=standby
 config.usage.date.compact=%-d %b
 config.usage.date.compressed=%-d%b
 config.usage.date.displayday=%a %-d %b
+config.usage.service_icon_enable=True
 config.usage.show_cryptoinfo=1
 config.usage.show_restart_network_extensionslist=False
 config.usage.showdish=off
